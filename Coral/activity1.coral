@@ -1,0 +1,9 @@
+float areaSquare
+float sideSquare
+
+areaSquare = Get next input
+sideSquare = SquareRoot(areaSquare)
+Put "Square root of " to output
+Put areaSquare to output
+Put " is " to output
+Put sideSquare to output

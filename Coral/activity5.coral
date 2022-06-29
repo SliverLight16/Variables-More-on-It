@@ -1,0 +1,20 @@
+integer rowNumLeft
+integer colNumLeft
+integer rowNumRight
+integer colNumRight
+
+rowNumLeft = RandomNumber(1, 20)
+colNumLeft = RandomNumber(1, 15)
+
+Put "Move row " to output
+Put rowNumLeft to output
+Put " column " to output
+Put colNumLeft to output
+
+rowNumRight = RandomNumber(1, 20)
+colNumRight = RandomNumber(16, 30)
+
+Put "to row " to output
+Put rowNumRight to output
+Put " column " to output
+Put colNumRight to output

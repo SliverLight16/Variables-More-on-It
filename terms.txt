@@ -1,0 +1,20 @@
+Function - a list of statements executing by invoking the function's name
+
+Function Declaration -  to declare a function
+
+Function Call - what you invoke to execute a function
+
+Arguments - function input values that appear withing ( ), and are separated by commas if 
+    there are more than 1
+
+Type Casting - a conversion of one data type to another
+
+Implicit Conversion -  an automatic conversion between similar data types (ex. integer and float 
+    types)
+
+Explicit Converstion -  to manually convert values of one data type to another type.
+
+Modulo - an operator that evaluates to the remainder of the division of two integer 
+operands (ex. 23 % of 10 is 3)
+
+Constant -  a named value item that holds a value that cannot change

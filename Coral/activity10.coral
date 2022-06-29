@@ -1,0 +1,14 @@
+integer secBetween
+integer timeInHours
+integer disInMiles
+integer SEC_PER_HOUR
+integer SOUND_SPEED
+
+// Get seconds between lightning and thunder
+secBetween = Get next input
+timeInHours = secBetween * SEC_PER_HOUR
+disInMiles = SOUND_SPEED * timeInHours
+
+Put "Miles from lightning strike:" to output
+Put disInMiles to output
+

@@ -1,0 +1,14 @@
+integer userMinutes
+integer outHours
+integer outMinutes
+
+userMinutes = Get next input
+outHours = userMinutes / 60
+outMinutes = userMinutes % 60
+
+Put userMinutes to output
+Put " minutes is " to output
+Put outHours to output
+Put " hours and " to output
+Put outMinutes to output
+Put " minutes.\n" to output

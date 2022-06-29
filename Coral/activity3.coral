@@ -1,0 +1,13 @@
+integer randomVal
+
+randomVal = RandomNumber(1,4)
+
+Put randomVal to output
+
+randomVal = RandomNumber(1,4)
+
+Put randomVal to output
+
+randomVal = RandomNumber(1,4)
+
+Put randomVal to output

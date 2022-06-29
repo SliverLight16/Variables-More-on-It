@@ -1,0 +1,13 @@
+integer kidsFamily1
+integer kidsFamily2
+integer numFamilies
+float avgKidsPerFamily
+
+numFamilies = 2
+
+kidsFamily1 = Get next input
+kidsFamily2 = Get next input
+
+avgKidsPerFamily = (1.0 * kidsFamily1 + kidsFamily2) / numFamilies
+Put "Average kids per family: " to output
+Put avgKidsPerFamily to output
